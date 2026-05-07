@@ -1,0 +1,217 @@
+avg_hr,max_hr,avg_spo2,min_spo2,avg_temp,max_temp,fall_count,high_hr_count,low_spo2_count,high_temp_count,label
+72,88,98,96,36.6,37.0,0,0,0,0,Normal Healthy
+68,82,99,97,36.5,36.9,0,0,0,0,Normal Healthy
+75,90,98,95,36.7,37.1,0,0,0,0,Normal Healthy
+70,85,97,95,36.4,36.8,0,0,0,0,Normal Healthy
+65,80,99,97,36.3,36.7,0,0,0,0,Resting Athlete Condition
+60,75,99,98,36.2,36.6,0,0,0,0,Resting Athlete Condition
+55,70,99,98,36.3,36.7,0,0,0,0,Resting Athlete Condition
+58,74,99,97,36.4,36.8,0,0,0,0,Resting Athlete Condition
+78,95,97,95,36.6,37.1,0,0,0,0,Generally Stable
+74,92,97,95,36.7,37.1,0,0,0,0,Generally Stable
+76,94,98,96,36.6,37.0,0,0,0,0,Generally Stable
+80,98,96,94,36.8,37.2,0,1,0,0,Generally Stable
+85,102,97,94,36.8,37.3,0,1,0,0,Borderline Tachycardia
+88,105,96,93,36.9,37.4,0,2,0,0,Borderline Tachycardia
+90,108,96,93,37.0,37.5,0,2,0,0,Borderline Tachycardia
+87,104,97,94,36.8,37.3,0,1,0,0,Borderline Tachycardia
+82,100,97,95,36.7,37.2,0,1,0,0,Post-Exercise Elevated HR
+86,106,96,93,36.8,37.3,0,2,0,0,Post-Exercise Elevated HR
+84,103,97,94,36.7,37.2,0,1,0,0,Post-Exercise Elevated HR
+48,58,98,96,36.5,36.9,0,0,0,0,Bradycardia
+45,55,98,96,36.4,36.8,0,0,0,0,Bradycardia
+50,62,97,95,36.5,37.0,0,0,0,0,Bradycardia
+52,65,98,96,36.6,37.0,0,0,0,0,Bradycardia
+88,110,96,93,36.7,37.4,0,2,0,0,Hypertension Stage 1 (Compensated)
+90,112,95,92,36.8,37.4,0,3,0,0,Hypertension Stage 1 (Compensated)
+92,115,95,91,36.9,37.5,0,3,0,0,Hypertension Stage 1 (Compensated)
+105,135,94,90,37.2,38.0,0,5,2,2,Hypertensive Crisis Risk
+108,138,93,89,37.3,38.2,0,6,3,2,Hypertensive Crisis Risk
+110,140,93,88,37.4,38.3,0,6,3,3,Hypertensive Crisis Risk
+100,128,93,89,37.3,38.1,0,5,3,2,Atrial Fibrillation Pattern
+103,132,92,88,37.4,38.2,0,5,4,2,Atrial Fibrillation Pattern
+98,126,93,89,37.2,38.0,0,4,3,1,Atrial Fibrillation Pattern
+118,150,96,92,37.1,37.9,0,8,1,1,Supraventricular Tachycardia
+122,155,95,91,37.2,38.0,0,9,2,1,Supraventricular Tachycardia
+115,148,96,92,37.0,37.8,0,8,1,1,Supraventricular Tachycardia
+92,118,95,91,37.0,37.8,0,3,2,1,Angina (Stable)
+95,120,94,90,37.1,37.9,0,4,2,1,Angina (Stable)
+90,115,95,91,36.9,37.7,0,3,1,1,Angina (Stable)
+108,138,91,86,37.8,38.7,1,6,4,4,Ischemic Heart Disease
+110,140,90,85,37.9,38.8,1,7,5,4,Ischemic Heart Disease
+105,135,91,86,37.7,38.6,0,6,4,3,Ischemic Heart Disease
+120,150,89,83,38.6,39.4,2,8,6,6,Acute Coronary Syndrome
+123,155,88,82,38.7,39.5,2,9,7,6,Acute Coronary Syndrome
+118,148,89,83,38.5,39.3,1,8,6,5,Acute Coronary Syndrome
+95,120,94,89,37.0,38.2,0,4,3,2,Early Heart Failure
+98,122,93,88,37.1,38.3,0,5,3,2,Early Heart Failure
+92,118,94,89,36.9,38.1,0,4,2,2,Early Heart Failure
+102,130,93,88,37.4,38.3,0,5,4,2,Chronic Heart Failure Exacerbation
+105,133,92,87,37.5,38.4,1,6,5,3,Chronic Heart Failure Exacerbation
+100,128,93,88,37.3,38.2,0,5,4,2,Chronic Heart Failure Exacerbation
+98,125,92,87,37.5,38.6,1,4,4,3,Pulmonary Hypertension
+100,128,91,86,37.6,38.7,1,5,5,3,Pulmonary Hypertension
+95,122,92,87,37.4,38.5,0,4,3,3,Pulmonary Hypertension
+115,145,90,85,38.2,39.0,2,7,5,5,Myocarditis
+118,148,89,84,38.3,39.1,2,8,6,5,Myocarditis
+112,142,90,85,38.1,38.9,1,7,5,4,Myocarditis
+130,170,87,80,39.0,40.2,3,10,9,8,Cardiogenic Shock
+135,175,86,79,39.2,40.5,3,11,10,9,Cardiogenic Shock
+128,168,87,80,38.9,40.0,2,10,9,8,Cardiogenic Shock
+125,165,88,82,39.1,40.3,3,10,9,8,Cardiogenic Shock
+110,140,88,82,38.0,39.5,2,6,7,6,Septic Shock with Cardiac Stress
+113,143,87,81,38.2,39.7,2,7,8,7,Septic Shock with Cardiac Stress
+108,138,88,82,37.9,39.4,1,6,6,6,Septic Shock with Cardiac Stress
+125,160,89,83,38.5,39.8,3,9,8,7,Severe Infection with Cardiac Load
+128,163,88,82,38.7,40.0,3,10,9,8,Severe Infection with Cardiac Load
+122,158,89,83,38.4,39.7,2,9,8,7,Severe Infection with Cardiac Load
+90,115,91,85,36.9,37.6,1,3,5,1,Chronic Obstructive Pulmonary Disease Impact
+93,118,90,84,37.0,37.7,1,4,6,1,Chronic Obstructive Pulmonary Disease Impact
+88,112,91,85,36.8,37.5,0,3,4,1,Chronic Obstructive Pulmonary Disease Impact
+55,70,99,98,36.3,36.7,0,0,0,0,Resting Athlete Condition
+58,74,99,97,36.4,36.8,0,0,0,0,Resting Athlete Condition
+88,108,97,95,36.8,37.3,0,1,0,0,Post-Exercise Elevated HR
+91,112,96,94,36.9,37.4,0,2,0,0,Post-Exercise Elevated HR
+82,100,97,95,36.7,37.2,0,1,0,0,Borderline Tachycardia
+87,105,97,94,36.8,37.3,0,2,0,0,Borderline Tachycardia
+112,142,96,93,37.0,37.7,0,7,1,0,Supraventricular Tachycardia
+120,155,95,91,37.2,38.0,0,9,2,1,Supraventricular Tachycardia
+46,55,98,96,36.4,36.8,1,0,0,0,Bradycardia
+50,60,97,95,36.5,36.9,0,0,0,0,Bradycardia
+44,54,98,96,36.3,36.7,2,0,0,0,Bradycardia
+93,118,93,88,37.0,38.0,0,4,3,2,Early Heart Failure
+97,122,92,87,37.1,38.2,1,4,4,2,Early Heart Failure
+104,132,92,87,37.5,38.4,1,5,4,2,Chronic Heart Failure Exacerbation
+106,136,91,86,37.6,38.5,1,6,5,3,Chronic Heart Failure Exacerbation
+86,108,97,94,36.7,37.3,0,2,0,0,Hypertension Stage 1 (Compensated)
+90,112,96,93,36.8,37.5,0,3,0,0,Hypertension Stage 1 (Compensated)
+103,130,94,90,37.3,38.1,0,5,2,2,Hypertensive Crisis Risk
+107,137,93,89,37.4,38.2,0,6,3,2,Hypertensive Crisis Risk
+89,113,91,85,36.9,37.7,1,3,5,1,Chronic Obstructive Pulmonary Disease Impact
+93,117,90,84,37.1,37.9,1,4,6,1,Chronic Obstructive Pulmonary Disease Impact
+95,123,91,85,37.4,38.3,1,4,5,2,Pulmonary Hypertension
+100,128,90,84,37.6,38.5,2,5,6,3,Pulmonary Hypertension
+90,116,95,91,37.0,37.8,0,3,2,1,Angina (Stable)
+94,120,94,90,37.1,37.9,0,3,2,1,Angina (Stable)
+106,136,92,87,37.7,38.6,1,6,4,4,Ischemic Heart Disease
+110,140,91,86,37.9,38.8,1,7,5,4,Ischemic Heart Disease
+118,148,89,83,38.5,39.3,2,8,6,6,Acute Coronary Syndrome
+122,153,88,82,38.7,39.6,2,8,7,6,Acute Coronary Syndrome
+98,126,93,89,37.2,38.0,0,5,3,2,Atrial Fibrillation Pattern
+102,130,92,88,37.3,38.1,1,5,4,2,Atrial Fibrillation Pattern
+113,143,90,85,38.1,38.9,2,7,5,5,Myocarditis
+117,147,89,84,38.3,39.1,2,7,6,5,Myocarditis
+108,138,88,82,37.9,39.4,2,6,7,6,Septic Shock with Cardiac Stress
+114,144,87,81,38.2,39.7,3,7,8,7,Septic Shock with Cardiac Stress
+123,156,88,82,38.4,39.2,2,8,6,6,Severe Infection with Cardiac Load
+127,162,87,80,38.8,40.0,3,9,8,7,Severe Infection with Cardiac Load
+128,165,87,80,38.9,40.1,3,10,8,7,Cardiogenic Shock
+132,172,86,79,39.2,40.4,4,10,9,8,Cardiogenic Shock
+72,85,98,96,36.6,37.0,0,0,0,0,Normal Healthy
+70,82,99,97,36.5,36.8,0,0,0,0,Normal Healthy
+68,80,98,96,36.4,36.9,0,0,0,0,Normal Healthy
+74,88,97,95,36.7,37.1,0,0,0,0,Normal Healthy
+65,78,98,96,36.4,36.7,0,0,0,0,Resting Athlete Condition
+58,72,99,98,36.3,36.6,0,0,0,0,Resting Athlete Condition
+55,68,99,97,36.2,36.5,0,0,0,0,Resting Athlete Condition
+85,102,97,94,36.8,37.3,0,1,0,0,Borderline Tachycardia
+88,105,96,93,36.9,37.4,0,2,0,0,Borderline Tachycardia
+92,108,96,92,37.0,37.5,0,3,0,0,Borderline Tachycardia
+115,145,95,91,37.0,37.8,0,8,1,1,Supraventricular Tachycardia
+120,155,94,90,37.2,38.1,0,10,2,2,Supraventricular Tachycardia
+118,150,91,88,37.4,38.5,0,9,3,3,Supraventricular Tachycardia
+48,58,98,96,36.5,36.9,1,0,0,0,Bradycardia
+45,55,97,95,36.4,36.8,0,0,0,0,Bradycardia
+42,52,98,96,36.3,36.7,0,0,0,0,Bradycardia
+95,120,92,88,37.1,38.4,0,4,4,2,Early Heart Failure
+98,125,91,86,37.3,38.6,1,5,5,3,Early Heart Failure
+102,130,90,85,37.5,38.8,1,6,6,4,Early Heart Failure
+105,135,88,81,38.2,39.6,2,7,8,7,Septic Shock with Cardiac Stress
+112,142,86,79,38.5,39.9,3,8,9,8,Septic Shock with Cardiac Stress
+110,140,87,80,38.8,40.1,2,7,9,9,Septic Shock with Cardiac Stress
+100,128,92,87,37.4,38.2,0,5,4,2,Chronic Heart Failure Exacerbation
+92,118,90,84,36.9,37.7,1,3,6,1,Chronic Obstructive Pulmonary Disease Impact
+88,110,89,83,36.8,37.5,1,2,7,1,Chronic Obstructive Pulmonary Disease Impact
+85,108,88,82,36.7,37.4,2,2,8,1,Chronic Obstructive Pulmonary Disease Impact
+125,165,88,80,38.8,40.2,3,10,9,9,Severe Infection with Cardiac Load
+128,170,86,78,39.0,40.5,4,10,10,10,Severe Infection with Cardiac Load
+85,108,97,95,36.7,37.2,0,2,0,0,Hypertension Stage 1 (Compensated)
+82,105,96,93,36.6,37.1,0,1,0,0,Hypertension Stage 1 (Compensated)
+102,132,94,89,37.2,38.0,0,6,3,2,Hypertensive Crisis Risk
+105,138,93,88,37.4,38.2,0,7,4,3,Hypertensive Crisis Risk
+98,125,91,86,37.5,38.5,1,5,5,3,Pulmonary Hypertension
+95,122,90,85,37.4,38.4,1,4,6,3,Pulmonary Hypertension
+115,148,89,84,38.3,39.2,2,8,7,6,Myocarditis
+112,145,90,85,38.1,39.0,2,7,6,5,Myocarditis
+132,175,85,78,39.2,40.5,4,10,12,10,Cardiogenic Shock
+135,180,84,76,39.4,40.8,5,10,13,11,Cardiogenic Shock
+78,92,97,95,36.6,37.1,0,0,0,0,Generally Stable
+80,95,96,94,36.7,37.2,0,0,0,0,Generally Stable
+102,130,93,88,37.4,38.3,0,6,4,2,Atrial Fibrillation Pattern
+105,135,92,87,37.5,38.5,1,7,5,3,Atrial Fibrillation Pattern
+108,135,92,87,37.7,38.6,1,7,5,4,Ischemic Heart Disease
+110,140,91,86,37.8,38.8,1,8,6,5,Ischemic Heart Disease
+90,115,95,91,37.0,37.8,0,3,2,1,Angina (Stable)
+92,118,94,90,37.1,37.9,0,3,3,1,Angina (Stable)
+122,155,87,81,38.7,39.5,2,9,7,7,Acute Coronary Syndrome
+125,160,86,80,38.9,39.8,3,10,8,8,Acute Coronary Syndrome
+88,105,96,94,36.9,37.2,0,2,0,0,Post-Exercise Elevated HR
+85,102,97,95,36.8,37.1,0,1,0,0,Post-Exercise Elevated HR
+94,120,94,90,37.1,38.0,0,4,3,1,Hypertension Stage 2
+96,125,93,89,37.2,38.2,0,5,4,2,Hypertension Stage 2
+118,150,91,85,38.0,39.0,0,9,6,5,Pericarditis
+115,145,92,87,37.8,38.8,0,8,5,4,Pericarditis
+52,65,96,93,35.8,36.4,0,0,1,0,Mild Hypothermia
+55,68,97,94,36.0,36.6,0,0,0,0,Mild Hypothermia
+42,52,94,90,34.5,35.2,1,0,2,0,Moderate Hypothermia
+40,50,92,88,34.0,34.8,1,0,3,0,Moderate Hypothermia
+105,130,98,96,38.5,39.2,0,5,0,5,Simple Viral Infection
+102,125,97,95,38.2,38.8,0,4,0,4,Simple Viral Infection
+75,90,92,88,36.7,37.2,0,0,5,0,Mild Respiratory Distress
+72,88,91,86,36.6,37.0,0,0,6,0,Mild Respiratory Distress
+82,105,95,92,37.0,37.8,0,2,1,1,Generally Stable
+76,92,98,96,36.6,37.1,0,0,0,0,Normal Healthy
+68,80,98,97,36.5,36.8,0,0,0,0,Resting Athlete Condition
+110,138,94,89,37.2,38.0,0,6,3,2,Atrial Fibrillation Pattern
+115,142,93,88,37.4,38.3,1,7,5,4,Chronic Heart Failure Exacerbation
+94,118,91,86,37.1,38.1,1,4,5,2,Early Heart Failure
+70,84,98,96,36.4,36.9,0,0,0,0,Normal Healthy
+72,86,97,95,36.5,37.0,0,0,0,0,Normal Healthy
+64,76,99,97,36.3,36.6,0,0,0,0,Resting Athlete Condition
+60,74,98,96,36.2,36.5,0,0,0,0,Resting Athlete Condition
+82,98,97,94,36.7,37.2,0,0,0,0,Generally Stable
+84,100,96,93,36.8,37.3,0,1,0,0,Generally Stable
+112,140,95,90,37.0,37.7,0,8,1,0,Supraventricular Tachycardia
+116,145,94,89,37.1,37.9,0,9,2,1,Supraventricular Tachycardia
+46,56,98,96,36.4,36.8,1,0,0,0,Bradycardia
+50,62,97,95,36.5,36.9,0,0,0,0,Bradycardia
+92,116,92,88,37.0,38.2,0,4,3,2,Early Heart Failure
+96,120,91,86,37.2,38.4,1,4,4,2,Early Heart Failure
+104,132,88,81,38.1,39.4,2,7,8,6,Septic Shock with Cardiac Stress
+108,138,87,80,38.3,39.7,3,7,9,7,Septic Shock with Cardiac Stress
+98,125,93,88,37.2,38.0,0,5,3,2,Atrial Fibrillation Pattern
+100,128,92,87,37.3,38.1,1,5,4,2,Atrial Fibrillation Pattern
+86,108,97,94,36.7,37.3,0,2,0,0,Hypertension Stage 1 (Compensated)
+90,112,96,93,36.8,37.5,0,3,0,0,Hypertension Stage 1 (Compensated)
+103,130,94,90,37.3,38.1,0,5,2,2,Hypertensive Crisis Risk
+107,137,93,89,37.4,38.2,0,6,3,2,Hypertensive Crisis Risk
+89,113,91,85,36.9,37.7,1,3,5,1,Chronic Obstructive Pulmonary Disease Impact
+93,117,90,84,37.1,37.9,1,4,6,1,Chronic Obstructive Pulmonary Disease Impact
+95,123,91,85,37.4,38.3,1,4,5,2,Pulmonary Hypertension
+100,128,90,84,37.6,38.5,2,5,6,3,Pulmonary Hypertension
+90,116,95,91,37.0,37.8,0,3,2,1,Angina (Stable)
+94,120,94,90,37.1,37.9,0,3,2,1,Angina (Stable)
+106,136,92,87,37.7,38.6,1,6,4,4,Ischemic Heart Disease
+110,140,91,86,37.9,38.8,1,7,5,4,Ischemic Heart Disease
+118,148,89,83,38.5,39.3,2,8,6,6,Acute Coronary Syndrome
+122,153,88,82,38.7,39.6,2,8,7,6,Acute Coronary Syndrome
+98,126,93,89,37.2,38.0,0,5,3,2,Atrial Fibrillation Pattern
+102,130,92,88,37.3,38.1,1,5,4,2,Atrial Fibrillation Pattern
+113,143,90,85,38.1,38.9,2,7,5,5,Myocarditis
+117,147,89,84,38.3,39.1,2,7,6,5,Myocarditis
+108,138,88,82,37.9,39.4,2,6,7,6,Septic Shock with Cardiac Stress
+114,144,87,81,38.2,39.7,3,7,8,7,Septic Shock with Cardiac Stress
+123,156,88,82,38.4,39.2,2,8,6,6,Severe Infection with Cardiac Load
+127,162,87,80,38.8,40.0,3,9,8,7,Severe Infection with Cardiac Load
+128,165,87,80,38.9,40.1,3,10,8,7,Cardiogenic Shock
+132,172,86,79,39.2,40.4,4,10,9,8,Cardiogenic Shock
